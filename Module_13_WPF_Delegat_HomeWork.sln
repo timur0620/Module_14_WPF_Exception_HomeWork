@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34607.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module_13_WPF_Delegat_HomeWork", "Module_13_WPF_Delegat_HomeWork.csproj", "{47D1747E-1722-4DC6-9BAB-F9D42BDBCBC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankLib", "..\BankLib\BankLib.csproj", "{80B0B35A-B1AC-4058-820F-89389D2E002A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47D1747E-1722-4DC6-9BAB-F9D42BDBCBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D1747E-1722-4DC6-9BAB-F9D42BDBCBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D1747E-1722-4DC6-9BAB-F9D42BDBCBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D1747E-1722-4DC6-9BAB-F9D42BDBCBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80B0B35A-B1AC-4058-820F-89389D2E002A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B0B35A-B1AC-4058-820F-89389D2E002A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B0B35A-B1AC-4058-820F-89389D2E002A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B0B35A-B1AC-4058-820F-89389D2E002A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD20BB76-B096-4E79-BA6F-10F16E71E99E}
+	EndGlobalSection
+EndGlobal
